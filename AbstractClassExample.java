@@ -1,4 +1,4 @@
-package com.company;
+
 
 abstract class ABS{
     void display(){
